@@ -1,0 +1,6 @@
+Pegar os nomes dos fields
+Criar os links de cada field
+Acessar o link do field https://www.thegreyhoundrecorder.com.au/form-guides/{field}
+Acessar o link na tag td>a.form-guide-track__row-btn
+Pegar RaceNumber, Greyhound, Box, Rating, 
+Salvar no CSV
